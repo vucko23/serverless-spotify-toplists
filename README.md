@@ -1,5 +1,10 @@
 # serverless-spotify-toplists
 
+![Python](https://img.shields.io/badge/Python-3.11-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![AWS](https://img.shields.io/badge/AWS-Lambda%20%7C%20EventBridge-orange.svg)
+![Spotify](https://img.shields.io/badge/API-Spotify-green.svg)
+
 ![CI](https://github.com/vucko23/serverless-spotify-toplists/actions/workflows/ci.yml/badge.svg)
 
 Production-style starter for an AWS Lambda (Python 3.13) that writes a CSV to S3 on a schedule (EventBridge).

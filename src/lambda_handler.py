@@ -1,5 +1,5 @@
-from .generate import generate_toplist_csv, make_s3_key
-from .utils import get_env
+from generate import generate_toplist_csv, make_s3_key
+from utils import get_env
 import boto3
 import logging
 
