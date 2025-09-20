@@ -1,7 +1,6 @@
-
 # 🎵 Serverless Spotify Toplists (AWS Lambda + EventBridge)
 
-![Python](https://img.shields.io/badge/Python-3.11-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.13-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![AWS](https://img.shields.io/badge/AWS-Lambda%20%7C%20EventBridge-orange.svg)
 ![Spotify](https://img.shields.io/badge/API-Spotify-green.svg)
